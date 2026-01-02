@@ -81,9 +81,8 @@ Tools	Python functions wrapped with LangChain Tool
 State Machine	StateGraph
 
 
-##  📦 Proposed Project Structure 
+##  📦 Project Structure 
 
-(Curretly code is in one ipynb file)
 ```
 /agent/
     ├── files/
