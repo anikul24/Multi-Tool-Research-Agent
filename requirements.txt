@@ -1,5 +1,15 @@
-# requests
-# pandas
+requests
+pandas
+pypdf
+tqdm
+python-dotenv
+
+langgraph
+langchain
+langchain-community
+langchain-core
+langchain-openai
+
 semantic_router
 pinecone
 serpapi
