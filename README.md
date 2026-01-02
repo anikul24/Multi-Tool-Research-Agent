@@ -86,16 +86,18 @@ State Machine	StateGraph
 (Curretly code is in one ipynb file)
 ```
 /agent/
-    ├── orchestrator.py
-    ├── router.py
-    ├── tools/
-    │     ├── rag_search.py
-    │     ├── web_search.py
-    │     ├── fetch_arxiv.py
-    │     └── final_answer.py
-    ├── graph.py
-    ├── state.py
+    ├── files/
+    ├── notebook/    
+    ├── ingestion.py
+    ├── main.py
+    ├── tools.py
+    ├── vector_store.py
+    ├── agent.py    
+    ├── config.py        
     ├── readme.md
+    ├── requirements.txt
+    └── .gitignore
+
 ```
 
 ##  ▶️ How It Works
